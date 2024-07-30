@@ -274,7 +274,7 @@ function copyColor(color) {
 </script>
 
 <a href="https://github.com/lixelv/tailwind_colors">
-  <img src="/src/assets/github.svg" class="github">
+  <img src="src/assets/github.svg" class="github" alt="GitHub">
 </a>
 
 <main>
